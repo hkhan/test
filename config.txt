@@ -2,3 +2,4 @@ added config
 made some changes to config in feature1
 more config changes in feature1
 some change in master
+change to conf in master
